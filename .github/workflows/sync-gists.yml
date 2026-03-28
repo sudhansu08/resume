@@ -1,6 +1,7 @@
 name: Sync Resumes to Gists
 
 on:
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
