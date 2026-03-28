@@ -7,7 +7,7 @@ Private repository managing JSON Resume files with automated deployment.
 | Person | File | GitHub Pages | Registry |
 |--------|------|-------------|----------|
 | Sudhansu Bhatta | `resumes/sudhansu.json` | [sudhansu08.github.io/resume](https://sudhansu08.github.io/resume/) | [registry.jsonresume.org/sudhansu08](https://registry.jsonresume.org/sudhansu08) |
-| Priyanka Mohapatra | `resumes/priyanka.json` | [sudhansu08.github.io/resume/priyanka](https://sudhansu08.github.io/resume/priyanka/) | [registry.jsonresume.org/sudhansu08?gistname=resume-priyanka](https://registry.jsonresume.org/sudhansu08?gistname=resume-priyanka) |
+| Priyanka Mohapatra | `resumes/priyanka.json` | [sudhansu08.github.io/resume/priyanka](https://sudhansu08.github.io/resume/priyanka/) | [registry.jsonresume.org/sudhansu08?gistname=resume-priyanka.json](https://registry.jsonresume.org/sudhansu08?gistname=resume-priyanka.json) |
 
 ## How It Works
 
