@@ -1,0 +1,117 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Sudhansu Bhatta",
+    "label": "Full Stack Engineer",
+    "email": "sudhansu.bhatta@gmail.com",
+    "phone": "+91 8917367010",
+    "summary": "Seasoned Full-Stack Engineer with 12 years in PHP and 2 years specializing in Golang. Expert in creating robust architectures with Laravel and CodeIgniter, and adept in frontend technologies including JavaScript, HTML, CSS, and Vue.js. Proven leader with experience in scaling backend systems and driving business growth through innovative solutions. Skilled in concurrent programming with Golang and a proactive problem-solver known for delivering high-quality results and fostering team collaboration.",
+    "location": {
+      "address": "B903, Marquise by Sparkle Realty, Bannerghatta Road",
+      "postalCode": "560076",
+      "city": "Bengaluru",
+      "countryCode": "IN",
+      "region": "Karnataka"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "sudhansu-bhatta-42732782",
+        "url": "https://www.linkedin.com/in/sudhansu-bhatta-42732782/"
+      },
+      {
+        "network": "GitHub",
+        "username": "sudhansu08",
+        "url": "https://github.com/sudhansu08"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Scilife",
+      "position": "Senior Software Developer → Module Lead → Team Lead",
+      "url": "https://www.scilife.io/",
+      "startDate": "2021-07",
+      "summary": "At Scilife, a leading SaaS innovator in quality management solutions, I progressed from Senior Software Developer to Module Lead and eventually to Team Lead. This journey reflects my adaptability, technical expertise, and leadership capabilities in driving impactful software development initiatives.",
+      "highlights": [
+        "Team Leadership in Golang Backend Development: Directed a proficient team in backend development, overseeing the transition to a new infrastructure for SAAS development. Ensured adherence to project timelines and quality standards, utilizing Jira for efficient task management and fostering a collaborative work environment.",
+        "Module Leadership in PHP Backend Development: Served as a Module Lead for the PHP backend team, guiding the team in new development for SAAS modules and addressing bug fixes promptly. Implemented efficient strategies to enhance module functionality and reliability.",
+        "Cross-Functional Collaboration: Collaborated with various departments including marketing and project management to drive innovation and develop new features and services within a SAAS application. Contributed to ideation, planning, and execution stages throughout the systems development lifecycle.",
+        "Talent Management: Played a key role in talent acquisition, interviewing, hiring, and training developers to strengthen the backend team. Implemented training programs to enhance developer skills and improve overall team performance.",
+        "Code Modernization and Quality Improvement: Updated legacy code bases to modern development standards, enhancing functionality and ensuring compliance with industry best practices. Proactively monitored ongoing operations, diagnosing and resolving logic and coding errors to maintain system integrity."
+      ]
+    },
+    {
+      "name": "NetTantra Technologies",
+      "position": "Application Developer",
+      "startDate": "2017-08",
+      "endDate": "2021-06",
+      "summary": "At NetTantra Technologies, I contributed to the Artisan EMR project - a cloud-based electronic medical records, laboratory management, and practice management system designed for the fertility industry.",
+      "highlights": [
+        "Collaborated closely with team members to troubleshoot and debug software issues, fostering a cohesive and efficient working environment.",
+        "Worked collaboratively with cross-functional teams to conceptualize, design, and implement innovative technology features, ensuring alignment with project goals and objectives.",
+        "Leveraged expertise in ExtJS, Angular, and PHP programming languages to develop and deploy customized client solutions, meeting unique business requirements and enhancing overall user experience.",
+        "Designed and implemented hybrid mobile applications for clients utilizing Ionic 3/4, and Angular frameworks, delivering robust and versatile solutions compatible across multiple platforms.",
+        "Partnered with project managers to monitor and assess project progress, providing regular updates to clients to ensure transparency and promote satisfaction throughout the development lifecycle."
+      ]
+    },
+    {
+      "name": "Institute Of Digital Media Technology",
+      "position": "Lead Consultant",
+      "startDate": "2016-11",
+      "endDate": "2017-08",
+      "summary": "At IDMT, a Digital Management Education and Training Center, I developed an Institute Management System tailored for use by schools, colleges, and other educational and training centers.",
+      "highlights": [
+        "Spearheaded the design and development of web applications using PHP and MySQL, prioritizing functionality and user experience to meet client specifications.",
+        "Managed server administration tasks, ensuring servers' uptime, security, and optimal performance to support seamless application operation.",
+        "Oversaw the creation and management of databases, implementing effective data storage, retrieval, and optimization strategies to maintain data integrity and application performance.",
+        "Strategically planned and allocated work assignments to the development team, optimizing resource utilization and ensuring timely project delivery.",
+        "Monitored development activities closely, tracking progress and proactively addressing any issues to maintain project momentum and quality standards.",
+        "Provided leadership and mentorship to project teams, offering technical guidance, support, and encouragement to foster skill development and team cohesion."
+      ]
+    },
+    {
+      "name": "Phoenix Software Solutions",
+      "position": "Software Developer",
+      "startDate": "2013-06",
+      "endDate": "2016-08",
+      "summary": "At Phoenix Software Solutions, a web development company, I launched my career and assisted over 100 clients in crafting customized websites and web applications tailored to their specific needs.",
+      "highlights": [
+        "Designed and developed web applications utilizing PHP and MySQL, ensuring robust functionality and efficient data management.",
+        "Managed database creation and handling, implementing effective storage and retrieval mechanisms to maintain data integrity and optimize performance.",
+        "Analyzed requirements and executed software application development for multiple websites, adhering to client specifications and project timelines.",
+        "Designed, implemented, and monitored web pages and sites, continuously improving user experience and functionality.",
+        "Gathered and defined customer requirements, translating them into clear specifications to develop well-organized project plans for successful execution."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Back End",
+      "level": "Master",
+      "keywords": ["PHP", "Golang", "Laravel", "CodeIgniter", "CakePHP"]
+    },
+    {
+      "name": "Front End",
+      "level": "Senior",
+      "keywords": ["HTML", "CSS", "JavaScript", "Vue.js", "Angular", "Tailwind"]
+    },
+    {
+      "name": "Databases",
+      "level": "Senior",
+      "keywords": ["MySQL", "SQLite", "MongoDB", "DynamoDB", "Redis"]
+    },
+    {
+      "name": "Other",
+      "level": "Senior",
+      "keywords": ["REST", "GraphQL", "WebSocket", "CI/CD", "AWS", "Git"]
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "interests": [],
+  "references": []
+}

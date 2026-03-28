@@ -1,0 +1,34 @@
+name: Sync Resumes to Gists
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "resumes/**"
+
+jobs:
+  sync-sudhansu:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync Sudhansu resume to Gist
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.GIST_TOKEN }}
+          gist_id: c0166ef4a2c9ade94cc48de2d5db70a6
+          gist_file_name: resume.json
+          file_path: resumes/sudhansu.json
+
+  sync-priyanka:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync Priyanka resume to Gist
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.GIST_TOKEN }}
+          gist_id: b05ee899f68a8f13dee7e36aeed8ec54
+          gist_file_name: resume.json
+          file_path: resumes/priyanka.json

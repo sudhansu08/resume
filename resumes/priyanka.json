@@ -1,0 +1,107 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Priyanka Mohapatra",
+    "label": "Human Resource Executive",
+    "email": "priyankamohapatra2204@gmail.com",
+    "phone": "+91 8249536979",
+    "summary": "To work for an organization that provides me the opportunity to improve my skills, academic knowledge, and knowledge with the organization's objective",
+    "location": {
+      "address": "B903, Marquise by Sparkle Realty, Bannerghatta Road",
+      "postalCode": "560076",
+      "city": "Bengaluru",
+      "countryCode": "IN",
+      "region": "Karnataka"
+    },
+    "profiles": []
+  },
+  "education": [
+    {
+      "institution": "D.D.C.E., Utkal University",
+      "location": "Bhubaneswar",
+      "studyType": "PG diploma in Banking and Insurance Management (Regular Mode).",
+      "startDate": "2021-02-01"
+    },
+    {
+      "institution": "VIKRAM DEB AUTONOMOUS COLLEGE",
+      "location": "Jeypore",
+      "studyType": "Bachelor in Science",
+      "area": "Zoology honours",
+      "startDate": "2014-10-01",
+      "endDate": "2017-05-01"
+    },
+    {
+      "institution": "VIDWAN INSTITUTE OF BASIC STUDIES",
+      "location": "Jeypore",
+      "studyType": "Intermediate",
+      "area": "Science",
+      "startDate": "2012-05-01",
+      "endDate": "2014-05-01"
+    },
+    {
+      "institution": "BIDYA RASMI ENGLISH MEDIUM SCHOOL",
+      "location": "Kotpad",
+      "studyType": "10th",
+      "startDate": "2011-05-10",
+      "endDate": "2012-05-10"
+    }
+  ],
+  "work": [
+    {
+      "name": "Mythical Phoenix Private Limited",
+      "location": "Bhubaneswar",
+      "position": "Human Resource Executive",
+      "startDate": "2019-12-01",
+      "endDate": "2021-01-01",
+      "highlights": [
+        "Understanding manpower requisition from the concerned department.",
+        "Understanding the requirement and accordingly drafting a job description and getting it approved by the concerned person.",
+        "Responsible for the entire recruitment cycle right from searching/ sourcing and screening resumes to coordinating and conducting interviews.",
+        "Advertise Job posting on various social media and job posting sites like Naukri, LinkedIn, Glassdoor, indeed, etc.",
+        "Screening incoming resumes and applicants' forms",
+        "Conducting pre-screening interviews and shortlisting candidates for the final round.",
+        "Arranging for technical interviews and coordinating with the concerned person.",
+        "Scheduling interviews between technical head and candidate personal, telephonic & video call interviews.",
+        "Coordination and follow-ups with candidates in the process.",
+        "Follow up with various employees to ensure work.",
+        "Developing recruitment planning.",
+        "Doing a background verification of the shortlisted candidates.",
+        "Coordinated work activities for HR managers, specialists, and recruiting agents.",
+        "Directed hiring and onboarding programs for new employees.",
+        "Educate employees on the company policy and kept employee handbook current."
+      ]
+    },
+    {
+      "name": "TECH MAHINDRA",
+      "position": "Customer Support Associate",
+      "location": "Bhubaneswar",
+      "startDate": "2019-08-01",
+      "endDate": "2019-10-01",
+      "highlights": [
+        "Resolve customers' service or billing complaints.",
+        "Contact customers to respond to inquiries or to notify them of claim investigation results or any planned adjustments.",
+        "Refer unresolved customer grievances to designated departments for further investigation.",
+        "Confer with customers by telephone or in-person to provide information about products or services, take or enter orders, cancel accounts, or obtain details of complaints"
+      ]
+    },
+    {
+      "name": "Bookingjini",
+      "position": "Customer Support Associate",
+      "location": "Bhubaneswar",
+      "startDate": "2019-04-01",
+      "endDate": "2019-06-01",
+      "highlights": [
+        "Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments, as well as actions.",
+        "Check to ensure that appropriate changes were made to resolve customers' problems",
+        "Determine charges for services requested, collect deposits or payments, or arrange for billing",
+        "Resolve customers' service or billing complaints by performing activities such as exchanging merchandise, refunding money, or adjusting bills"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}

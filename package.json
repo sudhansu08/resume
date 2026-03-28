@@ -1,0 +1,14 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "validate": "node scripts/build.js --validate-only"
+  },
+  "devDependencies": {
+    "resumed": "^3.0.0",
+    "jsonresume-theme-elegant": "^1.15.0"
+  }
+}
