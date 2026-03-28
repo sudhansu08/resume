@@ -30,5 +30,5 @@ jobs:
         with:
           token: ${{ secrets.GIST_TOKEN }}
           gist_id: b05ee899f68a8f13dee7e36aeed8ec54
-          gist_file_name: resume.json
+          gist_file_name: resume-priyanka.json
           file_path: resumes/priyanka.json
